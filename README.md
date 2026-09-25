@@ -8,16 +8,16 @@
 
 <br/><br/>
 
-<a href="https://pramexpress.com"><img src="https://img.shields.io/badge/WEBSITE-pramexpress.com-0A1F44?style=for-the-badge&logo=googlechrome&logoColor=FFB400" alt="Website"/></a>
+<a href="https://pramexpress.com"><img src="https://img.shields.io/badge/WEBSITE-pramexpress.com-0A1F44?style=for-the-badge&logo=googlechrome&logoColor=5AA9F0" alt="Website"/></a>
 <a href="tel:0256119008"><img src="https://img.shields.io/badge/CALL-0256%20119%20008-1E6FD9?style=for-the-badge" alt="Call"/></a>
-<a href="mailto:info@pramexpress.com"><img src="https://img.shields.io/badge/EMAIL-info@pramexpress.com-0A1F44?style=for-the-badge&logo=gmail&logoColor=FFB400" alt="Email"/></a>
+<a href="mailto:info@pramexpress.com"><img src="https://img.shields.io/badge/EMAIL-info@pramexpress.com-0A1F44?style=for-the-badge&logo=gmail&logoColor=5AA9F0" alt="Email"/></a>
 <a href="https://wa.me/233256119010"><img src="https://img.shields.io/badge/WHATSAPP-0256%20119%20010-1E6FD9?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Accra-Ghana-FFB400?style=flat-square&labelColor=0A1F44" alt="Accra, Ghana"/>
+<img src="https://img.shields.io/badge/📍_Accra-Ghana-5AA9F0?style=flat-square&labelColor=0A1F44" alt="Accra, Ghana"/>
 <img src="https://img.shields.io/badge/EST.-2024-1E6FD9?style=flat-square&labelColor=0A1F44" alt="Founded 2024"/>
-<img src="https://img.shields.io/badge/COVERAGE-50+_Destinations-FFB400?style=flat-square&labelColor=0A1F44" alt="Coverage"/>
+<img src="https://img.shields.io/badge/COVERAGE-50+_Destinations-5AA9F0?style=flat-square&labelColor=0A1F44" alt="Coverage"/>
 
 </div>
 
@@ -162,12 +162,12 @@ To be the **most trusted logistics partner in Ghana**, the leading provider in A
 
 <br/>
 
-<a href="https://www.facebook.com/p/Pram-Express-Ghana-Ltd-61582392490601/"><img src="https://img.shields.io/badge/Facebook-0A1F44?style=for-the-badge&logo=facebook&logoColor=FFB400" alt="Facebook"/></a>
-<a href="https://www.instagram.com/pramexpress.gh"><img src="https://img.shields.io/badge/Instagram-0A1F44?style=for-the-badge&logo=instagram&logoColor=FFB400" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/company/pram-express-ltd"><img src="https://img.shields.io/badge/LinkedIn-0A1F44?style=for-the-badge&logo=linkedin&logoColor=FFB400" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/p/Pram-Express-Ghana-Ltd-61582392490601/"><img src="https://img.shields.io/badge/Facebook-0A1F44?style=for-the-badge&logo=facebook&logoColor=5AA9F0" alt="Facebook"/></a>
+<a href="https://www.instagram.com/pramexpress.gh"><img src="https://img.shields.io/badge/Instagram-0A1F44?style=for-the-badge&logo=instagram&logoColor=5AA9F0" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/company/pram-express-ltd"><img src="https://img.shields.io/badge/LinkedIn-0A1F44?style=for-the-badge&logo=linkedin&logoColor=5AA9F0" alt="LinkedIn"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=140&section=footer&text=Connecting%20Ghana%2C%20Delivering%20Excellence&fontSize=20&fontColor=FFB400&fontAlignY=72" width="100%" alt="Pram Express footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=140&section=footer&text=Connecting%20Ghana%2C%20Delivering%20Excellence&fontSize=20&fontColor=5AA9F0&fontAlignY=72" width="100%" alt="Pram Express footer"/>
